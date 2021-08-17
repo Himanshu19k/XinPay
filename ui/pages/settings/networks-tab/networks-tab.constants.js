@@ -42,7 +42,7 @@ const defaultNetworksData = [
     rpcUrl: RINKEBY_RPC_URL,
     chainId: RINKEBY_CHAIN_ID,
     ticker: 'ETH',
-    blockExplorerUrl: 'https://ropsten.etherscan.io',
+    blockExplorerUrl: 'https://rinkeby.etherscan.io',
   },
   {
     labelKey: GOERLI,
