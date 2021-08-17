@@ -373,7 +373,7 @@ const state = {
     },
     "incomingTxLastFetchedBlocksByNetwork": {
       "ropsten": 8872820,
-      "rinkeby": null,
+      "Apothem": null,
       "kovan": null,
       "goerli": null,
       "mainnet": 10902989
@@ -559,7 +559,7 @@ const state = {
     "domainMetadata": {
       "https://metamask.github.io": {
         "name": "E2E Test Dapp",
-        "icon": "https://metamask.github.io/test-dapp/metamask-fox.svg",
+        "icon": "https://metamask.github.io/test-dapp/XDC-icon.svg",
         "lastUpdated": 1620723443380,
         "host": "metamask.github.io"
       }
